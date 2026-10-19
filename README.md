@@ -1,1 +1,1 @@
-# cardsync-demo
+# CardSync-demo
